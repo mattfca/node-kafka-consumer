@@ -1,0 +1,14 @@
+{
+  "name": "node-kafka-consumer",
+  "version": "1.0.0",
+  "description": "Consume from kafka with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafkaesque": "^1.0.0"
+  }
+}
